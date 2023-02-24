@@ -9,9 +9,9 @@ public class Main {
     public static void main(String... args) {
         System.out.println("START");
 
-        List<String> in = Reader.readFile("input/first_adventure.in");
+        List<String> in = Utils.readFile("input/first_adventure.in");
         assert in != null;
-        List<List<String>> inn = Reader.tokens(in);
+        List<List<String>> inn = Utils.tokens(in);
 
         Input input = new Input();
         input.n_provider = Integer.valueOf(inn.get(0).get(0));
