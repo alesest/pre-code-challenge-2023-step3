@@ -5,14 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff3edad5-2406-478e-a97f-26c87685a801" name="Changes" comment="gogo">
-      <change afterPath="$PROJECT_DIR$/domain/Reader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pre-code-challenge-2023-step3/domain/Utils.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/domain/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/domain/Input.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/domain/Progetto.java" beforeDir="false" afterPath="$PROJECT_DIR$/domain/Progetto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/domain/Provider.java" beforeDir="false" afterPath="$PROJECT_DIR$/domain/Provider.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/domain/Region.java" beforeDir="false" afterPath="$PROJECT_DIR$/domain/Region.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/pre-code-challenge-2023-step3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pre-code-challenge-2023-step3/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/pre-code-challenge-2023-step3/domain/Input.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pre-code-challenge-2023-step3/domain/Input.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pre-code-challenge-2023-step3/domain/Progetto.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pre-code-challenge-2023-step3/domain/Progetto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pre-code-challenge-2023-step3/domain/Provider.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pre-code-challenge-2023-step3/domain/Provider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pre-code-challenge-2023-step3/domain/Reader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pre-code-challenge-2023-step3/domain/Region.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pre-code-challenge-2023-step3/domain/Region.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +51,9 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -75,7 +81,7 @@
       <updated>1677245691995</updated>
       <workItem from="1677245693309" duration="20000" />
       <workItem from="1677245721839" duration="44000" />
-      <workItem from="1677245796699" duration="4676000" />
+      <workItem from="1677245796699" duration="11276000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <created>1677245874946</created>
@@ -91,7 +97,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677252717024</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="gogo">
+      <created>1677255472308</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677255472308</updated>
+    </task>
+    <task id="LOCAL-00004" summary="gogo">
+      <created>1677255582252</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677255582252</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,16 +132,5 @@
     <MESSAGE value="start" />
     <MESSAGE value="gogo" />
     <option name="LAST_COMMIT_MESSAGE" value="gogo" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Main.java</url>
-          <line>52</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

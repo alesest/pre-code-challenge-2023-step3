@@ -12,6 +12,21 @@ public class Region {
 
     public List<Integer> list_serives;
 
-    public List<Integer>  list_latancies;
-    
+    public List<Integer> list_latancies;
+
+    void buyOne(int i) {
+        n_packages--;
+
+    }
+
+    @Override
+    public String toString() {
+        return "Region{" +
+                "name='" + name + '\'' +
+                ", n_packages=" + n_packages +
+                ", costo_package=" + costo_package +
+                ", list_serives=" + list_serives +
+                ", list_latancies=" + list_latancies +
+                '}';
+    }
 }

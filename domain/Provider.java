@@ -8,4 +8,11 @@ public class Provider {
 
     public List<Region> regions;
 
+    @Override
+    public String toString() {
+        return "Provider{" +
+                "name='" + name + '\'' +
+                ", regions=" + regions +
+                '}';
+    }
 }
